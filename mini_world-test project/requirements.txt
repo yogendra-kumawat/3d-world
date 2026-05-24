@@ -1,0 +1,11 @@
+#torch torchvision --index-url https://download.pytorch.org/whl/cu126
+torch==2.3.1
+torchvision==0.18.1
+transformers==4.43.3
+ultralytics==8.2.50
+opencv-python==4.10.0.84
+numpy==1.26.4
+open3d==0.18.0
+matplotlib==3.9.0
+huggingface-hub==0.23.2
+pillow==10.4.0
